@@ -1,0 +1,30 @@
+body {
+    background-color: #2e2e2e;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+p {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 70%;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+img, video {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
